@@ -1,0 +1,22 @@
+{
+  "name": "binary-converter",
+  "private": true,
+  "version": "1.0.0",
+  "description": "10진수 → 2진수 변환 실습기 (중학교 정보 · 자료의 디지털 표현 · [9정02-01])",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "education",
+    "middle-school",
+    "informatics",
+    "binary"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^8.1.5"
+  }
+}
